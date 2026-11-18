@@ -1,3 +1,10 @@
 {
-  "consecutive_blocks": 306
+  "consecutive_blocks": 0,
+  "etag": null,
+  "zustaende": {
+    "Welcome to Night City Boosterdisplay (ENG)": "Welcome to Night City Boosterdisplay (ENG) Einzelbooster verfügbar INFO Welcome to Night City Booster (ENG) € 4,99 INFO Welcome to Night City Starter Deck - The Heist (ENG) € 29,99 INFO Welcome to Night City Starter Deck",
+    "Welcome to Night City Booster (ENG)": "Welcome to Night City Booster (ENG) € 4,99 INFO Welcome to Night City Starter Deck - The Heist (ENG) € 29,99 INFO Welcome to Night City Starter Deck - Embracing Power (ENG) € 29,99 INFO Welcome to Night City PreRelease K",
+    "Welcome to Night City PreRelease Kit (ENG)": "Welcome to Night City PreRelease Kit (ENG) INFO",
+    "Welcome to Night City Beta Boosterdisplay (ENG)": "Welcome to Night City Beta Boosterdisplay (ENG) Einzelbooster verfügbar INFO Welcome to Night City Beta Booster (ENG) Exklusiv vor Ort im Ladenlokal € 9,99 INFO Welcome to Night City Boosterdisplay (ENG) Einzelbooster ve"
+  }
 }
